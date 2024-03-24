@@ -1,0 +1,44 @@
+{
+  "ourTeam": [
+    {
+      "name": "Hossein shakibania",
+      "explan": "Applied Research Scientist",
+      "image": "./image/hossein.png"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": ""
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": ""
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ehsanakefi.jpg"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": ""
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": ""
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ehsanakefi.jpg"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ehsanakefi.jpg"
+    }
+  ]
+}

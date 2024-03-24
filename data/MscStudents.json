@@ -1,0 +1,44 @@
+{
+  "MscStudents": [
+    {
+      "name": "Ali Nafisi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ali.jpg"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": ""
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ehsanakefi.jpg"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ehsanakefi.jpg"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ehsanakefi.jpg"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": "./image/ehsanakefi.jpg"
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": ""
+    },
+    {
+      "name": "Ehsan Akefi",
+      "explan": "Applied Research Scientist",
+      "image": ""
+    }
+  ]
+}
