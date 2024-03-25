@@ -113,7 +113,7 @@ hr {
   display: flex;
   flex-direction: column;
   height: 100%;
-  padding: 3rem 8rem;
+  padding: 3rem 9%;
 }
 .nav {
   display: flex;
